@@ -372,7 +372,7 @@ namespace PaperangSerial
 
             int imglen = 48;
             byte[] img = new byte[imglen];
-            for (int y = 0; y < 7; y++)
+            for (int y = 0; y < 8; y++)
             {
                 for (int i = 0; i < imglen; i += doubleflag)
                 {
