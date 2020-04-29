@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE1005: デリゲート呼び出しを簡略化できます。
+csharp_style_conditional_delegate_call = true:suggestion
